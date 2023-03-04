@@ -1,0 +1,4 @@
+automodinit~=0.16
+fastapi
+uvicorn
+uplink
